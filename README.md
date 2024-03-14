@@ -1,6 +1,7 @@
 # EmotionSense
 EmotionSense is an innovative application designed to assist healthcare professionals in understanding and interpreting the emotional states of their patients. Utilizing advanced natural language processing (NLP), file analysis capabilities, and real-time camera detection.
 
+[![MIT License](https://img.shields.io/badge/Code-Private-green.svg)](https://github.com/SonuKumar-dev/EmotionSense.git) 
 
 ## Tech Used
 [![Python](https://img.shields.io/badge/Python-3.11-DA552F.svg?style=for-the-badge&logo=python&logoColor=orange)](https://www.python.org/)
