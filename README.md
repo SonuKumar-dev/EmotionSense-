@@ -116,6 +116,8 @@ $ python app.py
 - Now add in the auth.py  
 
 ```
+## Running Demo Video
+![](testvideo.gif)
 
 ## Results:
 Upon analysis, EmotionSense generates detailed patient profiles, including:
