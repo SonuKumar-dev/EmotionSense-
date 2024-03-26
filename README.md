@@ -118,7 +118,7 @@ $ python app.py
 ```
 ## Running Demo Video
 
-![Video Demo](emotion_video.mp4)
+![Video Demo](emotion_video-ezgif.com-video-to-gif-converter.gif)
 
 ## Results:
 Upon analysis, EmotionSense generates detailed patient profiles, including:
