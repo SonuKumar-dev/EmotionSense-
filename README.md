@@ -128,7 +128,7 @@ Upon analysis, EmotionSense generates detailed patient profiles, including:
 
 ## 🐞Feedback / Issues
 
-If you have any feedback, please reach out to us at @rocksonu12345@gmail.com
+If you have any feedback, please reach out to us at @work1.sonukumar@gmail.com
 
 ## 🙏Special Thanks
 [![Python](https://img.shields.io/badge/Python-3.11-DA552F.svg?style=for-the-badge&logo=python&logoColor=orange)](https://www.python.org/)
